@@ -50,7 +50,7 @@ public class Main {
         if (deliveryDistance > 60) {
             days++;
         }
-        System.out.println("Потребуется дней:  " + days);
+        System.out.println("Потребуется  дней:  " + days);
     }
 
     public static void task5() {
